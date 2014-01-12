@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>water.jpg</file>
+    </qresource>
+</RCC>

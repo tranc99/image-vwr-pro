@@ -1,0 +1,10 @@
+ImageViewer:
+---Has an image viewing area and a nice layout
+---The widgets in the layout have signals and slots
+---The slots include, viewing the image
+---the signals include push buttons for: next, previous
+---There's a filebrowsing menu that lists all the image files in that directory
+
+Seperately there's a file downloader that writes files to disk, by reading the incoming global data file
+It keeps reading the incoming for changes, and once it's buffered a certain length, writes them to file
+
